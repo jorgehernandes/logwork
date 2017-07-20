@@ -1,0 +1,23 @@
+{
+  "name": "logwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^20.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgehernandes/logwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgehernandes/logwork/issues"
+  },
+  "homepage": "https://github.com/jorgehernandes/logwork#readme"
+}
